@@ -1,2 +1,2 @@
 # ist
-My projects while studying in IST.
+My projects while studying at IST.
